@@ -1,7 +1,7 @@
 NAME   : V. POOJAA SREE /
 REG NO.: 212223040147
 
-#  Mean and variance of a discrete  distribution
+#  MEAN AND VARIANCE OF A DISCRETE DISTRIBUTION
 
 
 # Aim : 
