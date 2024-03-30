@@ -1,5 +1,7 @@
-NAME   : V. POOJAA SREE /
-REG NO.: 212223040147
+                                                                 NAME    : V. POOJAA SREE
+                                                                 REG. NO.: 212223040147
+                                                                                            
+
 
 #  MEAN AND VARIANCE OF A DISCRETE DISTRIBUTION
 
