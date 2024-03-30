@@ -3,7 +3,7 @@
                                                                                             
 
 
-#EX-1:  MEAN AND VARIANCE OF A DISCRETE DISTRIBUTION
+# EX-1:  MEAN AND VARIANCE OF A DISCRETE DISTRIBUTION
 
 
 # Aim : 
